@@ -4,7 +4,7 @@ const bip39 = require('bip39');
 
 const web3 = new Web3('https://bsc-testnet-rpc.publicnode.com');
 
-const mnemonic = 'opinion tent rare predict sentence figure bird spare voyage feel horror exotic';
+const mnemonic = 'YOUR SEED PHRASE';
 const seed = bip39.mnemonicToSeedSync(mnemonic);
 
 const hdWallet = hdkey.fromMasterSeed(seed);
