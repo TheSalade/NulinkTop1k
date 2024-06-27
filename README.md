@@ -45,7 +45,8 @@ If everything works you should see this in the terminal
 
 10- Open claimNLK.js script and same thing change the variable mnemonic by the one generated at step 6 (your SEED PHRASE not private key) 
 
-![image](https://github.com/TheSalade/NulinkTop1k/assets/83350456/1b5c7945-a634-468f-a515-4051dc40aa04)
+![image](https://github.com/TheSalade/NulinkTop1k/assets/83350456/5eb5d0ec-e9f9-4314-b8bd-7410bea3aec1)
+
 
 11- Open a new terminal windows and launch the script claimNLK.js : `node claimNLK.js`
 
