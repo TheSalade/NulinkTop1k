@@ -20,6 +20,7 @@ Open a terminal cmd and execute all this command :
 
 `npm install ethereumjs-wallet@0.6.5`
 5- Run the newSEED.js script to get a new wallet 
+
 ![image](https://github.com/TheSalade/NulinkTop1k/assets/83350456/fc271994-2243-424d-b90e-7e1dfa7b41fd)
 
 6- Copy the wallet address
