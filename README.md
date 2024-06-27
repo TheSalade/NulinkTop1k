@@ -1,3 +1,9 @@
+# How i have reach top 1k Leaderboard on Nulink
+![image](https://github.com/TheSalade/NulinkTop1k/assets/83350456/07c8915f-e2df-467f-b483-1767eb06a848)
+![image](https://github.com/TheSalade/NulinkTop1k/assets/83350456/b6b1aa98-477c-47c0-b88e-bc38b0261d97)
+![image](https://github.com/TheSalade/NulinkTop1k/assets/83350456/b3983f87-348e-4a88-9e85-5a541ef759f0)
+![image](https://github.com/TheSalade/NulinkTop1k/assets/83350456/71b6d8ce-f64c-436f-a077-7c49a3257c83)
+
 # How to use this Script
 
 1-Download visual studio code https://code.visualstudio.com/
