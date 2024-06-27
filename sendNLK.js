@@ -4,7 +4,7 @@ const web3 = new Web3('https://bsc-testnet-rpc.publicnode.com');
 const hdkey = require('ethereumjs-wallet/hdkey');
 const bip39 = require('bip39');
 
-const mnemonic = 'opinion tent rare predict sentence figure bird spare voyage feel horror exotic';
+const mnemonic = 'YOUR SEED PHRASE';
 const seed = bip39.mnemonicToSeedSync(mnemonic);
 
 const hdWallet = hdkey.fromMasterSeed(seed);
@@ -14,7 +14,7 @@ const path = "m/44'/60'/0'/0";
 const numSubAccounts = 275;
 const toAddress = '0x06A0F0fa38AE42b7B3C8698e987862AfA58e90D9';
 
-const receiver='b99A7e12767e8cA46f67f9c2A4fA23e2F373aF9e';
+const receiver='YOUR WALLET ADDRESS';
 const main = async()=>{
     for (let i = 0; i < numSubAccounts; i++) {
         
